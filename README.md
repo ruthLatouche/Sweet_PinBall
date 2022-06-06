@@ -7,4 +7,4 @@ The main file is Juego2\
 This is a pinball that uses some libraries for processing:\
 \
 Minim\
-Box2d of Daniel Shiffman\
+Box2d of Daniel Shiffman
